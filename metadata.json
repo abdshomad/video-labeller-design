@@ -1,0 +1,6 @@
+{
+  "name": "Video Labeller",
+  "description": "Dynamic video frame labelling workspace with manual annotation brushes, multi-frame propagation presets, and YOLO26, RF-DETR, or SAM3 AI segmenters with full JSON import/export properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
